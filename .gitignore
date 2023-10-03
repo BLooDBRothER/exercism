@@ -2,9 +2,12 @@
 .gradle
 .idea
 HELP.md
+HINTS.md
 README.md
 .vscode/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 build/
+gradlew*
+gradle/
