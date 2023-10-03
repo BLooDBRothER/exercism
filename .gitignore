@@ -1,0 +1,10 @@
+.exercism
+.gradle
+.idea
+HELP.md
+README.md
+.vscode/
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+build/
